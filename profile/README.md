@@ -1,6 +1,6 @@
 # Opensource Courses
 
-Fala dev, tudo bem ? 
+Fala dev
 
 Bem-vindo ou bem-vinda ao Opensource Courses, nosso somos uma comunidade e uma plataforma gratuita de educação sobre tecnologia,
 conteúdos desenvolvidos pela comunidade para a comunidade.
