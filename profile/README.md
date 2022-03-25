@@ -1,4 +1,21 @@
-## Hi there 👋
+# Opensource Courses
+
+Fala dev, tudo bem ? 
+
+Bem-vindo ou bem-vinda ao Opensource Courses, nosso somos uma comunidade e uma plataforma de educação sobre tecnologia,
+conteúdos desenvolvidos pela comunidade para a comunidade.
+
+Nossa lema é:
+
+> Vamos democratizar nosso conhecimento, para construção de um futuro melhor.
+
+Assim, conseguimos facilitar a entrada de novos desenvolvedores a tecnologia e auxiliar em seu desenvolvimento.
+
+Conseguimos fazer isso seguindo os **movimento opensource**
+
+- Guia do contribuidor
+- Código de conduta
+
 
 <!--
 
