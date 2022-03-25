@@ -1,3 +1,9 @@
-# Opensource Courses
+# Documentação
 
-Olá dev, seja muito bem-vinda(o) ao Opensource Couses, uma plataforma de educação em tecnologia, com o objetivo de oferecer trilhas de conhecimentos desenvolvidas pela comunidade para a comunidade, de forma totalmente gratuita!
+Olá dev, 
+
+Bem-vindo a Documentação do Opensource Courses, esse repositório tem o objetivo de abordar os seguintes tópicos: 
+
+- Guia do contribuidor
+- Código de conduta 
+- README de boas-vindas
