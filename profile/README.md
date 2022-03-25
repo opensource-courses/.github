@@ -4,7 +4,7 @@ Fala dev, tudo bem ?
 
 Bem-vindo ou bem-vinda ao Opensource Courses, nosso somos uma comunidade e uma plataforma gratuita de educação sobre tecnologia,
 conteúdos desenvolvidos pela comunidade para a comunidade.
-
+<!--
 Nossa lema é:
 
 > Vamos democratizar nosso conhecimento, para construção de um futuro melhor.
@@ -17,7 +17,6 @@ Assim, conseguimos facilitar a entrada de novos desenvolvedores a tecnologia e a
 - Código de conduta
 
 
-<!--
 
 **Here are some ideas to get you started:**
 
