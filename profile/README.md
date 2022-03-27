@@ -6,6 +6,7 @@ Seja bem-vindo(a) ao Open-source Courses, nós somos uma comunidade e uma plataf
 
 
 > Mantemos conteúdos sobre tecnologia criados pela comunidade.
+
 > Open-source Courses
 
 
