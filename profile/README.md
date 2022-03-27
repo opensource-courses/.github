@@ -12,7 +12,7 @@ Para ver, basta seguir o nosso Guia do Dev.
 
 Para modificar, siga o nosso Guia do Contribuidor, lá você terá as orientações necessárias para facilitar sua contribuição.
 
-Para distribuir, compartilhe com seus amigos, curta nosso conteúdo, contribuia! 
+Para distribuir, compartilhe com seus amigos, curta nosso conteúdo, contribua com a gente! 
 
 <!--
 Nossa lema é:
