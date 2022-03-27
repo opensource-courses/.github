@@ -2,7 +2,7 @@
 
 ## Fala dev!
 
-Seja bem-vindo(a) ao Opensource Courses, nós somos uma comunidade e uma plataforma opensource de educação sobre tecnologia.
+Seja bem-vindo(a) ao Opensource Courses, nós somos uma comunidade e uma plataforma opensource de educação em tecnologia.
 
 > Mantemos conteúdos sobre tecnologia criados pela comunidade.
 
