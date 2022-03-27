@@ -8,8 +8,10 @@ Seja bem-vindo(a) ao Opensource Courses, nós somos uma comunidade e uma platafo
 
 Todas as pessoas podem ver, modificar e distribuir os cursos de acordo com os princípios opensource.
 
-Para ver, Seguir o guia do dev.
-Para modificar, siga o guia do contribuidor, lá você terá as orientações necessárias para facilitar sua contribuição.
+Para ver, basta seguir o nosso Guia do Dev.
+
+Para modificar, siga o nosso Guia do Contribuidor, lá você terá as orientações necessárias para facilitar sua contribuição.
+
 Para distribuir, compartilhe com seus amigos, curta nosso conteúdo, contribuia! 
 
 <!--
