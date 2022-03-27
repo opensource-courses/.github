@@ -4,11 +4,11 @@
 
 Seja bem-vindo(a) ao Opensource Courses, nós somos uma comunidade e uma plataforma opensource de educação sobre tecnologia.
 
-> Desenvolvemos e mantemos trilhas de conhecimentos sobre tecnologia gerados pela comunidade.
+> Mantemos conteúdos sobre tecnologia criados pela comunidade.
 
 Todas as pessoas podem ver, modificar e distribuir os cursos de acordo com os princípios opensource.
 
-Para ver, basta navegar pelas trilhas de conhecimentos e seguir o guia do dev.
+Para ver, Seguir o guia do dev.
 Para modificar, siga o guia do contribuidor, lá você terá as orientações necessárias para facilitar sua contribuição.
 Para distribuir, compartilhe com seus amigos, curta nosso conteúdo, contribuia! 
 
