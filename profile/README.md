@@ -10,18 +10,13 @@ Seja bem-vindo(a) ao Open-source Courses, nós somos uma comunidade e uma plataf
 
 Todas as pessoas podem ver, modificar e distribuir os cursos de acordo com os princípios opensource.
 
-Para ver, basta seguir o nosso Guia do Dev.
+Para ver, basta acessar nossos cursos.
 
 Para modificar, siga o nosso Guia do Contribuidor, lá você terá as orientações necessárias para facilitar sua contribuição.
 
 Para distribuir, compartilhe com seus amigos, curta nosso conteúdo, contribua com a gente! 
 
 <!--
-Nossa lema é:
-
-> Vamos democratizar nosso conhecimento, para construção de um futuro melhor.
-
-Assim, conseguimos facilitar a entrada de novos desenvolvedores a tecnologia e auxiliar em seu desenvolvimento, conseguimos fazer isso seguindo os **movimento opensource** e desenvolvimento trilhas de conteúdo, 
 
 
 - Trilhas de conhecimento
