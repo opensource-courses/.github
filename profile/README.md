@@ -10,9 +10,9 @@ Seja bem-vindo(a) ao Open-source Courses, nós somos uma comunidade e uma plataf
 
 Todas as pessoas podem ver, modificar e distribuir os cursos de acordo com os princípios opensource.
 
-Para ver, basta acessar nossos cursos.
+Para ver, basta acessar nossos [cursos](https://github.com/opensource-courses/courses).
 
-Para modificar, siga o nosso Guia do Contribuidor, lá você terá as orientações necessárias para facilitar sua contribuição.
+Para modificar, siga o nosso [Guia do Contribuidor -  Em breve](#), lá você terá as orientações necessárias para facilitar sua contribuição.
 
 Para distribuir, compartilhe com seus amigos, curta nosso conteúdo, contribua com a gente! 
 
