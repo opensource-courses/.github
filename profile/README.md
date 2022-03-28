@@ -1,6 +1,6 @@
 ![OpenSource Courses](https://user-images.githubusercontent.com/53796755/160199387-c919beec-70fe-42da-9482-7effba145a18.png)
 
-## Fala dev!
+## Fala dev! ✌🏾
 
 Seja bem-vindo(a) ao Open-source Courses, nós somos uma comunidade e uma plataforma opensource de educação em tecnologia.
 
@@ -8,7 +8,7 @@ Seja bem-vindo(a) ao Open-source Courses, nós somos uma comunidade e uma plataf
 > Mantemos conteúdos sobre tecnologia criados pela comunidade.
 
 
-Todas as pessoas podem ver, modificar e distribuir os cursos de acordo com os princípios opensource.
+Todas as pessoas podem ver, modificar e distribuir os cursos de acordo com suas necessidades, segundo os princípios opensource.
 
 Para ver, basta acessar nossos [cursos](https://github.com/opensource-courses/courses).
 
