@@ -53,9 +53,9 @@ Crie aulas e discussões sobre os assuntos.
 Entender os diferentes papéis da comunidade e o processo geral ajudará você a se orientar rapidamente na comunidade.
 Geralmente projetos open-source seguem uma estrutura organizacional similar a nossa.
 
-- Mantenedores: Colaboradores que são responsáveis por conduzir a visão e gerenciar os aspectos organizacionais do projeto.
-- Colaboradores: Todos que contribuíram com algo para o projeto de alguma forma.
-- Membros da comunidade: Pessoas que consomem nosso conteúdos. Eles podem ser ativos em diálogos ou expressar sua opinião sobre a direção do projeto.
+- **Mantenedores**: Colaboradores que são responsáveis por conduzir a visão e gerenciar os aspectos organizacionais do projeto.
+- **Colaboradores**: Todos que contribuíram com algo para o projeto de alguma forma.
+- **Membros da comunidade**: Pessoas que consomem nosso conteúdos. Eles podem ser ativos em diálogos ou expressar sua opinião sobre a direção do projeto.
 
 Nossa comunidade tem o propósito de levar informação sobre tecnologia para todas as pessoas de forma educada, inspiradora e aconchegante, por isso não se sinta envergonhado em entrar em contato com colaboradores e mantenedores, eles irão te receber de abraços abertos.
 
