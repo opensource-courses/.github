@@ -12,19 +12,15 @@ Todas as pessoas podem ver, modificar e distribuir os cursos de acordo com suas 
 
 Para ver, fique a vontade em [Acessar Cursos](https://github.com/opensource-courses/courses).
 
-Para modificar, siga o nosso [Guia do Contribuidor -  Em breve](#), lá você terá as orientações necessárias para facilitar sua contribuição.
+Para modificar, siga o nosso [Guia do Contribuidor](https://github.com/opensource-courses/.github/blob/main/CONTRIBUTING.md), lá você terá as orientações necessárias para facilitar sua contribuição.
 
 Para distribuir, compartilhe com seus amigos, curta nosso conteúdo, contribua com a gente! 
 
+Onde posso conseguir ajuda, seu eu precisar?
+
+Mande suas mensagens em nossos canais de mensagem da comunidade no [Discord](https://discord.com/invite/fStnJgTw).
+
 <!--
-
-
-- Trilhas de conhecimento
-- Guia do contribuidor
-- Código de conduta
-
-
-
 **Here are some ideas to get you started:**
 
 🙋‍♀️ A short introduction - what is your organization all about?
