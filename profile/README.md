@@ -16,7 +16,7 @@ Para modificar, siga o nosso [Guia do Contribuidor](https://github.com/opensourc
 
 Para distribuir, compartilhe com seus amigos, curta nosso conteúdo, contribua com a gente! 
 
-Onde posso conseguir ajuda, seu eu precisar?
+### Onde posso conseguir ajuda, seu eu precisar?
 
 Mande suas mensagens em nossos canais de mensagem da comunidade no [Discord](https://discord.com/invite/fStnJgTw).
 
