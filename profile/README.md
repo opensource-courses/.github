@@ -1,4 +1,4 @@
-![OpenSource Courses](https://raw.githubusercontent.com/opensource-courses/.github/main/banners/wellcome-org.png)
+![Bem-vindo(a) ao OpenSource Courses](https://raw.githubusercontent.com/opensource-courses/.github/main/banners/wellcome-org.png)
 
 ## Fala dev! ✌🏾
 
