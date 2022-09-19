@@ -2,19 +2,16 @@
 
 ## Fala dev! ✌🏾
 
-Seja bem-vindo(a) ao Open-source Courses, nós somos uma comunidade e uma plataforma opensource de educação em tecnologia.
-
-
-> Mantemos conteúdos sobre tecnologia criados pela comunidade.
-
-
+> 💡 Olá, seja bem-vindo(a) à Open-source Courses, somos uma comunidade e plataforma opensource de educação em tecnologia.
 Todas as pessoas podem ver, modificar e distribuir os cursos de acordo com suas necessidades, segundo os princípios opensource.
+
+A Open-source Courses (Cursos de código aberto em tradução livre) é uma plataforma de fortalecimento de conteúdos sobre tecnologia de acordo com os princípios open source. Trata-se, portanto, de conteúdos criados para serem acessados abertamente pelo público, por todas as pessoas que visam vê-lo, modificá-lo e distribuí-lo conforme suas necessidades.
 
 Para ver, fique a vontade em [Acessar Cursos](https://github.com/opensource-courses/courses).
 
 Para modificar, siga o nosso [Guia do Contribuidor](https://github.com/opensource-courses/.github/blob/main/CONTRIBUTING.md), lá você terá as orientações necessárias para facilitar sua contribuição.
 
-Para distribuir, compartilhe com seus amigos, curta nosso conteúdo, contribua com a gente! 
+Para distribuir, compartilhe com seus amigos, curta nosso conteúdo e contribua com a gente! 
 
 ### Onde posso conseguir ajuda, seu eu precisar?
 
