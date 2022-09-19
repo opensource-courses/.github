@@ -1,4 +1,5 @@
-# Guia do Contribuidor
+![Bem-vindo(a) ao OpenSource Courses](https://raw.githubusercontent.com/opensource-courses/.github/main/banners/banner-contributing.png)
+
 Fala dev
 
 Muito obrigado por considerar contribuir com o Open-source Courses. São pessoas como você que fazem o Open-source Courses crescer.
