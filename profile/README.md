@@ -1,4 +1,4 @@
-![OpenSource Courses](https://user-images.githubusercontent.com/53796755/160199387-c919beec-70fe-42da-9482-7effba145a18.png)
+![OpenSource Courses](https://raw.githubusercontent.com/opensource-courses/.github/main/banners/wellcome-org.png)
 
 ## Fala dev! ✌🏾
 
