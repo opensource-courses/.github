@@ -11,7 +11,7 @@ Para ver, fique a vontade em [Acessar Cursos](https://github.com/opensource-cour
 
 Para modificar, siga o nosso [Guia do Contribuidor](https://github.com/opensource-courses/.github/blob/main/CONTRIBUTING.md), lá você terá as orientações necessárias para facilitar sua contribuição.
 
-Para distribuir, compartilhe com seus amigos, curta nosso conteúdo, contribua com a gente! 
+Para distribuir, compartilhe com seus amigos, curta nosso conteúdo e contribua com a gente! 
 
 ### Onde posso conseguir ajuda, seu eu precisar?
 
